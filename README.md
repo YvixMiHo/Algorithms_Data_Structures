@@ -5,4 +5,4 @@ Common algorithms and data structures patterns following the image in Figure 1
 Figure 1. Priority of patterns to know
 
 
-The goal is to have a visual road map and prioritize code second to be able to conceptually get to solutions rather than relying on memory.
+The goal is to have a visual road map first and prioritize code second. This allows for concepts to be learned more naturally with less focus on memorization
